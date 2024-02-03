@@ -1,0 +1,10 @@
+C:\Dev\C#\TempForm2\obj\Debug\TempForm2.csproj.AssemblyReference.cache
+C:\Dev\C#\TempForm2\obj\Debug\TempForm2.Properties.Resources.resources
+C:\Dev\C#\TempForm2\obj\Debug\TempForm2.csproj.GenerateResource.cache
+C:\Dev\C#\TempForm2\obj\Debug\TempForm2.csproj.CoreCompileInputs.cache
+C:\Dev\C#\TempForm2\obj\Debug\TempForm2.Calculator.resources
+C:\Dev\C#\TempForm2\bin\Debug\TryForm2.exe.config
+C:\Dev\C#\TempForm2\bin\Debug\TryForm2.exe
+C:\Dev\C#\TempForm2\bin\Debug\TryForm2.pdb
+C:\Dev\C#\TempForm2\obj\Debug\TryForm2.exe
+C:\Dev\C#\TempForm2\obj\Debug\TryForm2.pdb
